@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Raffy Loves Coke</title>
+   </head>
+	
+   <body>
+      
+      
+      <center>
+         <p><br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         
+         I love <a href="file:///Users/raffybendicion/Desktop/Images/index.htm"><font color="red">Coke</font></a>. - Raffy</p>
+      </center>
+   </body>
+	
+</html>

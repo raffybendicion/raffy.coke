@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+       <title>Coke Picture</title>
+    </head>
+    
+    <body>
+        
+        <center>
+         <p><br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <br />
+         <img src="pic.gif" alt="Coke" width="500" height="333">
+         
+         </center>
+   </body>
+	
+</html>
